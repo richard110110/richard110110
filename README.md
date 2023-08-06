@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on UNSW as a level 6 software engineer, USYD as an adminstration staff, MQ as a sessional academic teacher in computer science
+- 🌱 I’m currently learning Machine Learning, Natural Language Processing, Devops, MERN stack and MEAN stack, Django and SpringBoot framework
 <!--
 **richard110110/richard110110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
