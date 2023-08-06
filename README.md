@@ -2,8 +2,9 @@
 
 - 🔭 I’m currently working on UNSW as a level 6 software engineer, USYD as an adminstration staff, MQ as a sessional academic teacher in computer science
 - 🌱 I’m currently learning Machine Learning, Natural Language Processing, Devops, MERN stack and MEAN stack, Django and SpringBoot framework
+- 💼 I worked in UTS as a frontend developer to improve the existing system by using Material UI in React, SpringBoot as the backend, MYSQL (deployed on AWS), and AWS EC2 to deploy the website, using Netlify to deploy another official website for the institute. 
 - 💼 I worked in USYD as an acacdemic tutor to teach ELEC5619 about SpringBoot Framework and interact with 200+ students, guided and supervised 40+ project, taught them API integration, responsive design, software testing, deployment, github collaboration, software architecture, database design, system analysis & design, backend development.
-- 📳 I worked in USYD in an internship position as a mobile app developer by using Android studio, Firebase, API integration and Geographic algroithm.
+- 💼 I worked in USYD in an internship position as a mobile app developer by using Android studio, Firebase, API integration and Geographic algroithm.
 <!--
 **richard110110/richard110110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
